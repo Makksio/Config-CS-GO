@@ -1,0 +1,7 @@
+Pordnik do zainstalowania maksioConfig
+Polski Jêzyk
+1. Pobierz maksioConfig
+2. Otwórz maksioConfig
+3. Zaznacz wszystkie pliki z rozsze¿eniem .cfg
+4. Zkopiuj te pliki
+5. Wklej te pliki dop folderu cfg (TWÓJ POCZ¥TEK ŒCIE¯KI\steamapps\common\Counter-Strike Global Offensive\csgo\cfg)
