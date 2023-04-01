@@ -1,1 +1,1 @@
-+exec maksioConfig.cfg -language english -novid +fps_max 200 -high -nojoy +cl_forcepreload 1 +mat_queue_mode 2 -tickrate 128
+-novid +fps_max 200 -freq 240 -refresh 240 -tickrate 128 +mat_queue_mode 2
